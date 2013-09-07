@@ -13,7 +13,7 @@ We typically show short videos either to illustrate our points when talking abou
 - Reddit: [https://aws.amazon.com/solutions/case-studies/reddit/](https://aws.amazon.com/solutions/case-studies/reddit/)
 - SAP: [https://aws.amazon.com/solutions/case-studies/sap/](https://aws.amazon.com/solutions/case-studies/sap/)
 - Hadoop (Mortar): [http://www.youtube.com/watch?v=nmbh8X9goTE&feature=youtu.be](http://www.youtube.com/watch?v=nmbh8X9goTE&feature=youtu.be)
-
+- NASA / JPL Mars Roover Landing: [http://www.youtube.com/watch?v=8FJ5DBLSFe4](http://www.youtube.com/watch?v=8FJ5DBLSFe4) (starts at 11:46)
 When talking About Animoto during Essentials and Architect class
 
 - Animoto (Marketing): [https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1](https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1)
