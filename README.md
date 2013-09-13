@@ -19,10 +19,13 @@ When talking About Animoto during Essentials and Architect class
 - Animoto (Marketing): [https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1](https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1)
 - Animoto (Technical):[https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1](https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1)
 
+## Certification
+
+- How to study for AWS Architect certification : [http://www.youtube.com/watch?v=nt1-ZIX_s5U](http://www.youtube.com/watch?v=nt1-ZIX_s5U)
 
 ## Humor
 
-- Fun: [From the CIA to the Freezer : How bg is Amazon ?](http://www.businessweek.com/videos/2013-06-27/from-the-cia-to-your-freezer-how-big-is-amazon)
+- Fun: [From the CIA to the Freezer : How big is Amazon ?](http://www.businessweek.com/videos/2013-06-27/from-the-cia-to-your-freezer-how-big-is-amazon)
 
 ### Dilbert
 
