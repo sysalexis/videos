@@ -14,6 +14,9 @@ We typically show short videos either to illustrate our points when talking abou
 - SAP: [https://aws.amazon.com/solutions/case-studies/sap/](https://aws.amazon.com/solutions/case-studies/sap/)
 - Hadoop (Mortar): [http://www.youtube.com/watch?v=nmbh8X9goTE&feature=youtu.be](http://www.youtube.com/watch?v=nmbh8X9goTE&feature=youtu.be)
 - NASA / JPL Mars Roover Landing: [http://www.youtube.com/watch?v=8FJ5DBLSFe4](http://www.youtube.com/watch?v=8FJ5DBLSFe4) (starts at 11:46)
+- SONOS Music System (about the cost to experiment and the cost of failure) : [https://www.youtube.com/watch?v=C9UVrbOMIZw](https://www.youtube.com/watch?v=C9UVrbOMIZw)
+
+
 When talking About Animoto during Essentials and Architect class
 
 - Animoto (Marketing): [https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1](https://www.youtube.com/embed/VwDS6MexKEo?rel=0;hd=1;autoplay=1)
@@ -25,7 +28,8 @@ When talking About Animoto during Essentials and Architect class
 
 ## Humor
 
-- Fun: [From the CIA to the Freezer : How big is Amazon ?](http://www.businessweek.com/videos/2013-06-27/from-the-cia-to-your-freezer-how-big-is-amazon)
+- Fun: [From the CIA to the Freezer : How big is Amazon ?](http://www.businessweek.com/videos/2013-06-27/from-the-cia-to-your-freezer-how-big-is-amazon)   
+Beware - not exactly the "Amazon" tone
 
 ### Dilbert
 
